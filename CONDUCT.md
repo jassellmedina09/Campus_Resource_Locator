@@ -132,6 +132,9 @@ community.
 -
 ### Enforcement/ Feedback (How will the team enforce its own rules? How do individuals prefer to give and receive feedback?)
 -
+## Signatures
+<img src="https://github.com/jassellmedina09/Campus_Resource_Locator/blob/main/src/jassell%20signature-1.jpg" alt="Jassell Medina" width="200">
+
 
 ## Attribution
 
