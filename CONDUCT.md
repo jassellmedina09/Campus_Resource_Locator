@@ -163,6 +163,7 @@ individual causing an issue privately at first. Feedback on assigned work is
 expected to be shared either in Github comments or in person. 
 ## Signatures
 <img src="https://github.com/jassellmedina09/Campus_Resource_Locator/blob/main/src/jassell%20signature-1.jpg" alt="Jassell Medina" width="200">
+<img src="https://github.com/jassellmedina09/Campus_Resource_Locator/blob/main/src/yan_signature.jpg" alt="Yan Pan" width="200">
 <img src="https://github.com/jassellmedina09/Campus_Resource_Locator/blob/main/src/LydiaSignature.png" alt="Lydia Nicolau" width="200">
 
 ## Attribution
