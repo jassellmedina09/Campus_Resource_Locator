@@ -26,13 +26,16 @@
  
 ## Observation 3
 - **Name**: 
-    - [Member's name]
+    - Kiryl Filipau
 - **Observation Statement**: 
-    - [Insert observation statement here]
+    - People seem to want an option to view campus events
 - **Supporting Data**: 
-    - [Insert supporting data here]
+    - "Knowing when certain events are. For example, I constantly see tables set up on the quad but never know what they are for"
+    - "Adding different campus events and where they are located on campus"
+    - "News about campus events, date time etc...."
+    - "Being able to know when certain events are going on around campus"
 - **Team Action (if any)**: 
-    - [Insert any team actions here]
+    - We can implement a separate tab for users that will show campus events. They can be tied to specific buildings that are part of the app. Then, those events can be shown on the map
  
 ## Observation 4
 - **Name**: 
