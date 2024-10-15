@@ -16,13 +16,13 @@
 
 ## Observation 2
 - **Name**: 
-    - [Member's name]
+    - Yan Pan
 - **Observation Statement**: 
-    - [Insert observation statement here]
+   People want a map that they can touch and interact with, and one that is detailed
 - **Supporting Data**: 
-    - [Insert supporting data here]
+    - "A search system on the campus map, like if you searched up the 193 coffee house it would point you to the Memorial union, or even have students put in things like the turtle in the greenhouse. the campus map solves basic building finding but specific things in those buildings is harder to find."
 - **Team Action (if any)**: 
-    - [Insert any team actions here]
+  - We can try to fulfill as many of the requests as we can
  
 ## Observation 3
 - **Name**: 
