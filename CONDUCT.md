@@ -115,23 +115,52 @@ community.
 ## Language To Address
 
 ### Decisions (How will they be made? Majority, consensus, other?)
--
+-Decisions will be made through majority vote after everyone has shared 
+their points of views and opinions on the decision at hand. 
 ### Attendance (What are your expectations for the frequency and type of attendance?; What are legitimate reasons for missing? What do missing members have to do to make up for missed meetings)
--
+-The expectation for attendance is that all members must attend class. 
+However, if a member has a valid excuse for missing class that they have 
+shared in advance with the other memebers, they can be excused. Some
+legitimate reasons for missing class would be illness, appointments, or
+family emergencies. In order for memebers to make up for missed meetings, 
+it is expected of them to reach out to their group members to understand
+what was missed and how they can help.
 ### Assignments (How will assignments be made? How will the group deal with members who do not complete (or poorly complete assignments?)
--
+-Assignments will be made in the project section of our Github directory. 
+If someone does not complete (or poorly completes) an assignment, then they 
+are expected to complete/fix their assigned work the following day. The group
+will allow for two instances of missing work/poor quality work, however, on
+the third instance a report will be filed to the professor. If someone is 
+expressing a struggle with an assigned section ahead of time to group 
+members, then the group can make a decision on further steps to take for
+that section to reach completion. 
 ### Participation (How will you communicate and share information; How will you ensure full participation of everyone? How will you honor member strengths and interests)?
--
+-Communication and information will be shared through Messenger. Full 
+participation will be ensured through communicating what needs to get done
+and then determining who is available to do it. Honoring members strengths 
+and interests is important so that everyone feels comfortable completing their work.
+It is important for group members to share what they are comfortable 
+completing so work can be seperated accordingly. 
 ### Meeting Times and Locations/Mediums (How will you decide on locations and times that suit all members)?
--
+-Meeting times and locations can be discussed by the group in class or through
+Messenger. If an in person meeting is not possible, a Zoom meeting can progress.
+If someone is unable to make it to an in person meeting, that person is allowed
+to join through Zoom. 
 ### Agenda and Minutes /Notes (Who will take them how will they be shared?)
--
+-Notes can be taken and shared by all group members. They can post the content
+in Github in the decided upon folder. 
 ### Promptness (What do you expect and how will you handle lateness?)
--
+-Promptness is expected of all group members. Being late happens and wont be
+penalized unless someone is consistently late to class.
 ### Conversational Courtesies (How will the team encourage and reinforce active listening, sharing of the airtime, tangents, respectful dialogue, etc )
--
+-After everyone has shared their thoughts and opinons it is expected that all
+group members share how they feel on the information that was just presented. 
+It is also expected that all members are respectful of one another and each others
+thoughts and ideas. 
 ### Enforcement/ Feedback (How will the team enforce its own rules? How do individuals prefer to give and receive feedback?)
--
+-If a rule is clearly being broken it is up to the members to reach out to the 
+individual causing an issue privately at first. Feedback on assigned work is 
+expected to be shared either in Github comments or in person. 
 ## Signatures
 <img src="https://github.com/jassellmedina09/Campus_Resource_Locator/blob/main/src/jassell%20signature-1.jpg" alt="Jassell Medina" width="200">
 
