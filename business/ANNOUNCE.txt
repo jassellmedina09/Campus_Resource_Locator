@@ -1,2 +1,4 @@
 Provide an announcement of your product in 140 characters or less - suitable for a social media post. 
 Choose your characters carefully.  This is just a preliminary announcement to help focus your idea - it may change come product release time.
+
+Introducing the Campus Resource Locator app! Whether you're a student, professor, or visitor, easily find your way around campus with real-time maps and guided navigation. Search for specific resources like study spaces, dining halls, or computer labs, and discover ongoing events at any building. No more wasted time searching for the services you need! With detailed descriptions of campus resources and seamless navigation, you'll always know exactly where to go. Available soon on app stores and university platforms—stay tuned for the official launch and make your campus experience effortless!
