@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341612860932",
+    "project_id": "campus-resource-locator-6t7sor",
+    "storage_bucket": "campus-resource-locator-6t7sor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341612860932:android:8f17e99477b3f044b1c751",
+        "android_client_info": {
+          "package_name": "com.mycompany.campusresourcelocator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbvUbVYuFUQ_MrDo2kq9Qf-fgtY5tz6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
