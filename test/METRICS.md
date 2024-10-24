@@ -10,7 +10,11 @@ Each team member should commit to the document at least one metric collection bu
 
 
 NPS
+
 Adoption
+
 DAU
+
 Retention 
+
 CTR for an event on the Golden Path. This is done with Firebase Analytics custom event.
