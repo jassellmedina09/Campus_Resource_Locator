@@ -21,6 +21,7 @@ Adoption
 - Collected through firebase. Can be collected by seeing the number of new users over a period of time. We can also use a custom event to see how may users interacted with it
 
 DAU
+- firebase authentication shows when people log in, count them. There’s a data source in firebase authentication showing when people logged in. 
 
 Retention 
 
