@@ -27,17 +27,27 @@ Each team member is add to the team GitHub Project a PBI task card for their A/B
 ****
 
 A/B Test Name: "Profile Setup - Detailed vs. Minimal Information Collection"
+
 User Story Number: US7 (User Profile Creation)
+
 Metrics:
+
 Happiness: User satisfaction with the profile setup process 
+
 Engagement: Percentage of users who successfully complete their profile setup.
+
 Adoption: Rate at which users complete their profile setup within the first session after creating an account.
+
 Hypothesis:
 Users are more likely to complete the profile setup if the initial setup only requires uploading a photo and entering their name, with major selection as optional rather than mandatory. Reducing mandatory fields may lower the initial user drop-off and increase the profile setup completion rate. I think it's better to have more information, but users want to access the app quicker, and will probably skip as many steps that they can.
+
 Problem Statement:
 Reducing mandatory fields may lower the initial user drop-off and increase the profile setup completion rate. Users may abandon or skip due to too many required fields. This step is critical for user engagement and personalization. By identifying the impact of making certain fields optional, we aim to improve adoption rates and overall satisfaction with the onboarding experience.
+
 Experiment Setup:
 Track profile completion rates, completion time, and feedback via Firebase Analytics. Set up events for tracking field interactions, image upload status, and setup abandonment.
+
 Variations:
+
 Control Group (A): All fields—photo upload, name, and major—are mandatory.
 Test Group (B): Only photo upload and name are mandatory, with major selection optional.
