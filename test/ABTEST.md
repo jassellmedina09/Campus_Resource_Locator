@@ -52,6 +52,7 @@ Variations:
 Control Group (A): All fields—photo upload, name, and major—are mandatory.
 Test Group (B): Only photo upload and name are mandatory, with major selection optional.
 
+****
 
 A/B Test Name: "Search Bar Top or Bottom"
 
