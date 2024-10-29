@@ -26,18 +26,4 @@ Retention
 
 CTR for an event on the Golden Path. This is done with Firebase Analytics custom event.
 
-****
 
-A/B Test Name: AB Test Login/Signup Button Top/Bottom
-
-User Story Number: 1
-
-Metrics: Your team's HEART metrics that this A/B test measures.
-Happiness, Engagement, Adoption
-
-Hypothesis: State your hypothesis for this A/B test
-I think that putting the login/signup button at the top under the signin info spots would be better than at the bottom, since its closer to where the info is inputed.
-
-We're trying to see which option would make our users happier and keep them using the app.
-
-Based on how the metrics are, we can see the best place for our login/signup button, and if it should move when clicked on depending on user interaction
