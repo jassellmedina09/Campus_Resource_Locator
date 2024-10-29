@@ -28,7 +28,7 @@ Each team member is add to the team GitHub Project a PBI task card for their A/B
 
 A/B Test Name: "Profile Setup - Detailed vs. Minimal Information Collection"
 
-User Story Number: US7 (User Profile Creation)
+User Story Number: US2 (User Profile Creation)
 
 Metrics:
 
