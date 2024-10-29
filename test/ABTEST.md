@@ -51,3 +51,31 @@ Variations:
 
 Control Group (A): All fields—photo upload, name, and major—are mandatory.
 Test Group (B): Only photo upload and name are mandatory, with major selection optional.
+
+
+A/B Test Name: "Search Bar Top or Bottom"
+
+User Story Number: US4 
+
+Metrics:
+
+Happiness: User satisfaction with the search bar 
+
+Engagement: Percentage of users who successfully complete their search.
+
+Retention: Amount of users who keep using app
+
+Hypothesis:
+I think that putting the search bar at the bottom would be better because it's easier to tap on, but a lot of other map services have it at the top
+
+Problem Statement:
+Depending on where the search bar is, users might find our app to be easy or annoying to use so we can see which one users like more
+
+Experiment Setup:
+Track completion time, and feedback via Firebase Analytics.
+
+Variations:
+
+Control Group (A): Search Bar on top
+Test Group (B): Search Bar on bottom
+
