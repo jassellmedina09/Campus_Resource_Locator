@@ -79,3 +79,29 @@ Variations:
 Control Group (A): Search Bar on top
 Test Group (B): Search Bar on bottom
 
+****
+
+A/B Test Name: AB Test Login/Signup Button Top/Bottom
+
+User Story Number: 1 User Account Creation
+
+Metrics: 
+
+Happiness: User satisfaction with the profile setup process 
+
+Engagement: Percentage of users who successfully complete their profile setup.
+
+Adoption: Rate at which users complete their profile setup within the first session after creating an account.
+
+Hypothesis: State your hypothesis for this A/B test
+I think that putting the login/signup button at the top under the signin info spots would be better than at the bottom, since its closer to where the info is inputed.
+
+Problem Statement:
+Having an awkward placement of this login/signup button could repell users from interacting and creating an account for our application. Having it in a more easy to acess spot might make it more simplistic for users and offer a better visual look.
+
+Eperiment Setup: 
+Track profile completion rates, completion time, and feedback via Firebase Analytics. Set up events for tracking field interactions, image upload status, and setup abandonment.
+
+Variations:
+Control Group (A): button at the bottom of the screen, seperate from where info is collected from users
+Test Group (B): Button at the top where it will be under where the info is collected from users
