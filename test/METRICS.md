@@ -14,9 +14,11 @@ Each team member should commit to the document at least one metric collection bu
 yall, these are the notes from Tuesday's class where he basically gave us the answers on what to write: https://docs.google.com/document/d/1wAY4neSXy0CfqkCSTOsOkVaaUMzDPDYpNB4-P4DlW4M/edit
 ****
 
-NPS - Collected through firestore. A survey will be added to the app, where users will be prompted to rate the app on a scale of 1-10. Their answers will be stored in firestore.
+NPS
+- Collected through firestore. A survey will be added to the app, where users will be prompted to rate the app on a scale of 1-10. Their answers will be stored in firestore.
 
 Adoption
+- Collected through firebase. Can be collected by seeing the number of new users over a period of time. We can also use a custom event to see how may users interacted with it
 
 DAU
 
