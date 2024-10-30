@@ -25,6 +25,6 @@ DAU
 
 Retention 
 
-CTR for an event on the Golden Path. This is done with Firebase Analytics custom event.
+- CTR for an event on the Golden Path. This is done with Firebase Analytics custom event.
 
 
