@@ -23,8 +23,8 @@ Adoption
 DAU
 - firebase authentication shows when people log in, count them. There’s a data source in firebase authentication showing when people logged in. 
 
-Retention 
+Retention
+- We can use firebase to see how many users have used the app consistently, using its user retention analytic, which shows the percentage of user that return each day.
 
-- CTR for an event on the Golden Path. This is done with Firebase Analytics custom event.
-
-
+CTR for an event on the Golden Path
+- We can use firebase to create an event that logs in how many times people use our events page, and how many times users look at individual locations/events
