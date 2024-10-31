@@ -106,3 +106,40 @@ Track profile completion rates, completion time, and feedback via Firebase Analy
 Variations:
 Control Group (A): button at the bottom of the screen, seperate from where info is collected from users
 Test Group (B): Button at the top where it will be under where the info is collected from users
+
+***
+A/B Test Name: List of Locations as a Separate Page vs as a Swipe Up Menu Over the Map Screen
+
+User Story Number: 4 Golden Path
+
+Metrics:
+
+Task Success: Measure how much time on average it takes for users to complete their tasks in each case.
+
+Retention: Measure how many users keep coming back and using the app within a day/week/month
+
+Hypothesis:
+
+Displaying the list of locations as a separate page rather than a swipe-up menu over the map screen will improve task success rates by reducing the time it takes for users to find locations and complete tasks.
+
+Problem: Users may find it challenging to navigate between the map and location list, leading to longer task completion times, as they constantly will need to switch between the two screens, which can slow them down. This friction could impact user retention, as users may not return if the app feels cumbersome to use. Instead, they can have all of locations/events available to them in a semi-transparent slide-up bottom sheet that will keep the map visible.
+
+By improving navigation ease, we expect quicker task completions and increased retention, as users will have a smoother experience finding locations and completing actions, encouraging them to revisit the app.
+
+Experiment:
+
+We'll conduct a 50/50 split A/B test, with Variant A showing the location list as a separate page and Variant B as a swipe-up menu over the map. Using Firebase's Remote Config and A/B Testing tools, we'll segment all users evenly to ensure a representative sample.
+
+Using Firebase Analytics, we'll track Task Success and Retention. Plus, we can use the google survey to further examine user satisfaction
+
+Variation A: Location List as a Separate Page
+
+- Users tap a button to navigate to a full-screen page listing all available locations.
+- The list includes clear sorting and filtering options to help users find locations quickly.
+- Users can view more details and select a location to proceed to the map.
+
+Variation B: Location List as a Swipe-Up Menu Over the Map
+
+- The location list is accessible by swiping up from the bottom of the map screen, overlaying the map.
+- The swipe-up menu includes the same sorting and filtering options as in Variation A.
+- Users can view more details and select a location without fully leaving the map screen.
