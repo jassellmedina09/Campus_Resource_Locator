@@ -11,7 +11,7 @@ etc
 
 Each team member should commit to the document at least one metric collection bullet (the graders will check the commits on your repo).  
 
-yall, these are the notes from Tuesday's class where he basically gave us the answers on what to write: https://docs.google.com/document/d/1wAY4neSXy0CfqkCSTOsOkVaaUMzDPDYpNB4-P4DlW4M/edit
+
 ****
 
 NPS
